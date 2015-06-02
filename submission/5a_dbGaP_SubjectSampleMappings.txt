@@ -1,0 +1,23 @@
+SUBJECT_ID	SAMPLE_ID	SAMPLE_SOURCE	SOURCE_SAMPLE_ID	SAMPLE_USE
+hu0E7AAF	e0030faf63e25a850293f8487f997547_72-hu0E7AAF.23andme	Harvard Personal Genome Project	e0030faf63e25a850293f8487f997547_72-hu0E7AAF.23andme	SNP
+hu83BC6A	359c5af39d1f15fde4e9773019555098_72-hu83BC6A.23andme	Harvard Personal Genome Project	359c5af39d1f15fde4e9773019555098_72-hu83BC6A.23andme	SNP
+hu9E6329	15aabe4bf4fffadea41cafe47256aa7b_72-hu9E6329.23andme	Harvard Personal Genome Project	15aabe4bf4fffadea41cafe47256aa7b_72-hu9E6329.23andme	SNP
+hu826751	84dbb3fd3d2798b5a600edf62b1463ae_72-hu826751.23andme	Harvard Personal Genome Project	84dbb3fd3d2798b5a600edf62b1463ae_72-hu826751.23andme	SNP
+hu7379BC	6d162ae6a325d68be293b0816de0372e_72-hu7379BC.23andme	Harvard Personal Genome Project	6d162ae6a325d68be293b0816de0372e_72-hu7379BC.23andme	SNP
+hu7C3A81	cf6549cb18388d7d15c63e7c07a71fc2_72-hu7C3A81.23andme	Harvard Personal Genome Project	cf6549cb18388d7d15c63e7c07a71fc2_72-hu7C3A81.23andme	SNP
+huB1488D	148dc96bdf8bf0f98410d8f44293f7ba_72-huB1488D.23andme	Harvard Personal Genome Project	148dc96bdf8bf0f98410d8f44293f7ba_72-huB1488D.23andme	SNP
+hu8A5FBF	4c1df841c066ef2745a815533abe4bde_72-hu8A5FBF.23andme	Harvard Personal Genome Project	4c1df841c066ef2745a815533abe4bde_72-hu8A5FBF.23andme	SNP
+hu3DC5EA	19d0cc86681b17dc48cd1f6dbd435d7d_72-hu3DC5EA.23andme	Harvard Personal Genome Project	19d0cc86681b17dc48cd1f6dbd435d7d_72-hu3DC5EA.23andme	SNP
+hu925B56	43c2d745cf25d6aae2e1dd9fc1a73a96_72-hu925B56.23andme	Harvard Personal Genome Project	43c2d745cf25d6aae2e1dd9fc1a73a96_72-hu925B56.23andme	SNP
+hu566AA7	e75a3d42d3895d676bc1630a765459b1_72-hu566AA7.23andme	Harvard Personal Genome Project	e75a3d42d3895d676bc1630a765459b1_72-hu566AA7.23andme	SNP
+hu0E7AAF	GS03023-DNA_A01	Harvard Personal Genome Project	GS03023-DNA_A01	WholeGenome
+hu83BC6A	GS03023-DNA_C01	Harvard Personal Genome Project	GS03023-DNA_C01	WholeGenome
+hu9E6329	GS03052-DNA_A01	Harvard Personal Genome Project	GS03052-DNA_A01	WholeGenome
+hu826751	GS03052-DNA_B01	Harvard Personal Genome Project	GS03052-DNA_B01	WholeGenome
+hu7379BC	GS03052-DNA_E01	Harvard Personal Genome Project	GS03052-DNA_E01	WholeGenome
+hu7C3A81	GS03052-DNA_F01	Harvard Personal Genome Project	GS03052-DNA_F01	WholeGenome
+huB1488D	GS03052-DNA_H01	Harvard Personal Genome Project	GS03052-DNA_H01	WholeGenome
+hu8A5FBF	GS03184-DNA_A02	Harvard Personal Genome Project	GS03184-DNA_A02	WholeGenome
+hu3DC5EA	GS03184-DNA_F01	Harvard Personal Genome Project	GS03184-DNA_F01	WholeGenome
+hu925B56	GS03274-DNA_B01	Harvard Personal Genome Project	GS03274-DNA_B01	WholeGenome
+hu566AA7	GS03274-DNA_H01	Harvard Personal Genome Project	GS03274-DNA_H01	WholeGenome

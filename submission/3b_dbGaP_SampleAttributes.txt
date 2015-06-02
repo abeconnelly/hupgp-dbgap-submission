@@ -1,0 +1,5 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT1	VARIABLE_SOURCE	VARIABLE_TERM	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SAMPLE_ID	Sample ID		string												
+ANALYTE_TYPE	Analyte Type		string												
+COMPANY_DATA_SOURCE	Company responsible for generating the data		string												
+IS_TUMOR	Tumor status		encoded values												N=Is not a tumor,Y=Is Tumor

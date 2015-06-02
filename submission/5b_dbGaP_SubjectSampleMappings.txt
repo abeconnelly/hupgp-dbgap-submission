@@ -1,0 +1,6 @@
+VARNAME	VARDESC	TYPE	VALUES
+SUBJECT_ID	Subject ID	string	
+SAMPLE_ID	Sample ID	string	
+SAMPLE_SOURCE	Source of sample	string	
+SOURCE_SAMPLE_ID	Sample ID used in the Source Repository	string	
+SAMPLE_USE	Sample use	encoded values	

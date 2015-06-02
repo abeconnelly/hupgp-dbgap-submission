@@ -1,0 +1,12 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID									Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected									Harvard PGP	timestamp		X			
+Psoriasis	Psoriasis		decimal, encoded value		0	1				Harvard PGP	Psoriasis				List	1=Reported 0=Not reported
+Lichen planus	Lichen planus		decimal, encoded value		0	1				Harvard PGP	Lichen planus				List	1=Reported 0=Not reported
+Dandruff	Dandruff		decimal, encoded value		0	1				Harvard PGP	Dandruff				List	1=Reported 0=Not reported
+Hair loss (includes female and male pattern baldness)	Hair loss (includes female and male pattern baldness)		decimal, encoded value		0	1				Harvard PGP	Hair loss (includes female and male pattern baldness)				List	1=Reported 0=Not reported
+Acne	Acne		decimal, encoded value		0	1				Harvard PGP	Acne				List	1=Reported 0=Not reported
+Eczema	Eczema		decimal, encoded value		0	1				Harvard PGP	Eczema				List	1=Reported 0=Not reported
+Allergic contact dermatitis	Allergic contact dermatitis		decimal, encoded value		0	1				Harvard PGP	Allergic contact dermatitis				List	1=Reported 0=Not reported
+Alopecia areata	Alopecia areata		decimal, encoded value		0	1				Harvard PGP	Alopecia areata				List	1=Reported 0=Not reported
+Pilonidal cyst	Pilonidal cyst		decimal, encoded value		0	1				Harvard PGP	Pilonidal cyst				List	1=Reported 0=Not reported

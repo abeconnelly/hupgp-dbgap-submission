@@ -1,0 +1,7 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID									Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected									Harvard PGP	timestamp		X			
+Migraine with aura	Migraine with aura		decimal, encoded value		0	1				Harvard PGP	Migraine with aura				List	1=Reported 0=Not reported
+Essential tremor	Essential tremor		decimal, encoded value		0	1				Harvard PGP	Essential tremor				List	1=Reported 0=Not reported
+Recurrent sleep paralysis	Recurrent sleep paralysis		decimal, encoded value		0	1				Harvard PGP	Recurrent sleep paralysis				List	1=Reported 0=Not reported
+Restless legs syndrome	Restless legs syndrome		decimal, encoded value		0	1				Harvard PGP	Restless legs syndrome				List	1=Reported 0=Not reported

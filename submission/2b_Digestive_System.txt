@@ -1,0 +1,11 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID									Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected									Harvard PGP	timestamp		X			
+Ulcerative colitis	Ulcerative colitis		decimal, encoded value		0	1				Harvard PGP	Ulcerative colitis				List	1=Reported 0=Not reported
+Irritable bowel syndrome (IBS)	Irritable bowel syndrome (IBS)		decimal, encoded value		0	1				Harvard PGP	Irritable bowel syndrome (IBS)				List	1=Reported 0=Not reported
+Inguinal hernia	Inguinal hernia		decimal, encoded value		0	1				Harvard PGP	Inguinal hernia				List	1=Reported 0=Not reported
+Canker sores (oral ulcers)	Canker sores (oral ulcers)		decimal, encoded value		0	1				Harvard PGP	Canker sores (oral ulcers)				List	1=Reported 0=Not reported
+Gingivitis	Gingivitis		decimal, encoded value		0	1				Harvard PGP	Gingivitis				List	1=Reported 0=Not reported
+Temporomandibular joint (TMJ) disorder	Temporomandibular joint (TMJ) disorder		decimal, encoded value		0	1				Harvard PGP	Temporomandibular joint (TMJ) disorder				List	1=Reported 0=Not reported
+Dental cavities	Dental cavities		decimal, encoded value		0	1				Harvard PGP	Dental cavities				List	1=Reported 0=Not reported
+Impacted tooth	Impacted tooth		decimal, encoded value		0	1				Harvard PGP	Impacted tooth				List	1=Reported 0=Not reported

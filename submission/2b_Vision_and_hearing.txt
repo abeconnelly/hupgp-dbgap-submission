@@ -1,0 +1,11 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID									Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected									Harvard PGP	timestamp		X			
+Age-related cataract	Age-related cataract		decimal, encoded value		0	1				Harvard PGP	Age-related cataract				List	1=Reported 0=Not reported
+Hyperopia (Farsightedness)	Hyperopia (Farsightedness)		decimal, encoded value		0	1				Harvard PGP	Hyperopia (Farsightedness)				List	1=Reported 0=Not reported
+Tinnitus	Tinnitus		decimal, encoded value		0	1				Harvard PGP	Tinnitus				List	1=Reported 0=Not reported
+Presbyopia	Presbyopia		decimal, encoded value		0	1				Harvard PGP	Presbyopia				List	1=Reported 0=Not reported
+Dry eye syndrome	Dry eye syndrome		decimal, encoded value		0	1				Harvard PGP	Dry eye syndrome				List	1=Reported 0=Not reported
+Myopia (Nearsightedness)	Myopia (Nearsightedness)		decimal, encoded value		0	1				Harvard PGP	Myopia (Nearsightedness)				List	1=Reported 0=Not reported
+Age-related macular degeneration	Age-related macular degeneration		decimal, encoded value		0	1				Harvard PGP	Age-related macular degeneration				List	1=Reported 0=Not reported
+Astigmatism	Astigmatism		decimal, encoded value		0	1				Harvard PGP	Astigmatism				List	1=Reported 0=Not reported

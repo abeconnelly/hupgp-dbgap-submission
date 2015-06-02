@@ -1,0 +1,3 @@
+VARNAME	VARDESC	TYPE	VALUES
+SUBJECT_ID	Subject ID	string	
+CONSENT	Conset group as determined by DAC	encoded value	999=Fully Public Release

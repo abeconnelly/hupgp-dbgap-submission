@@ -1,0 +1,11 @@
+SUBJECT_ID	TIMESTAMP	Psoriasis	Lichen planus	Dandruff	Hair loss (includes female and male pattern baldness)	Acne	Eczema	Allergic contact dermatitis	Alopecia areata	Pilonidal cyst
+hu3DC5EA	2014-03-06 12:48:18	0	0	0	0	0	0	0	0	1
+huB1488D	2013-01-27 12:35:35	0	0	0	0	1	0	0	0	0
+hu566AA7	2014-06-15 22:29:03	0	0	0	1	0	0	0	0	0
+hu8A5FBF	2012-11-29 00:56:07	0	0	0	1	1	1	0	0	0
+hu7379BC	2014-04-01 22:15:48	0	0	0	0	1	0	0	0	0
+hu826751	2014-12-19 20:33:14	0	0	0	0	1	0	0	1	0
+hu925B56	2013-08-11 12:51:05	1	1	1	0	1	1	1	0	0
+hu7C3A81	2013-03-21 19:41:41	0	0	0	0	1	0	0	0	0
+hu0E7AAF	2014-03-03 22:32:38	0	0	0	0	0	0	0	0	0
+hu9E6329	2013-06-23 14:27:56	0	0	0	0	1	0	0	0	0

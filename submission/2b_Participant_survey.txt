@@ -1,0 +1,8 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID		string							Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected		string							Harvard PGP	timestamp		X			
+Sex/Gender	Reported sex/gender		string							Harvard PGP	Sex/Gender					
+Race/ethnicity	Reported race/ethnicity		string							Harvard PGP	Race/ethnicity					
+Month of birth	Reported month of birth		string							Harvard PGP	Month of birth					
+Anatomical sex at birth	Reported anatomical sex at birth		string							Harvard PGP	Anatomical sex at birth					
+Year of birth	Reported year of birth		string							Harvard PGP	Year of birth					

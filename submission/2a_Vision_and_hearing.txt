@@ -1,0 +1,12 @@
+SUBJECT_ID	TIMESTAMP	Age-related cataract	Hyperopia (Farsightedness)	Tinnitus	Presbyopia	Dry eye syndrome	Myopia (Nearsightedness)	Age-related macular degeneration	Astigmatism
+hu3DC5EA	2014-03-06 12:46:08	0	0	0	0	0	1	0	1
+huB1488D	2013-01-27 12:42:17	0	0	0	0	0	1	0	1
+hu566AA7	2014-06-15 22:25:22	0	0	1	0	1	1	0	1
+hu8A5FBF	2012-11-29 00:53:09	1	0	0	1	1	0	1	0
+hu7379BC	2014-04-01 22:12:33	0	0	0	1	0	1	0	0
+hu826751	2014-12-19 20:31:02	0	0	0	0	0	0	0	0
+hu826751	2014-12-19 20:37:54	0	0	1	0	0	0	0	0
+hu925B56	2013-08-11 12:42:21	0	0	1	0	1	1	0	0
+hu7C3A81	2013-03-21 19:37:02	0	0	0	0	0	0	0	0
+hu0E7AAF	2014-03-03 22:07:35	0	1	0	0	0	1	0	0
+hu9E6329	2013-02-19 14:22:04	0	0	1	0	0	0	0	0

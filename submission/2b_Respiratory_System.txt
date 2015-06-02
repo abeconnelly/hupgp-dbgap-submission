@@ -1,0 +1,9 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID									Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected									Harvard PGP	timestamp		X			
+Deviated septum	Deviated septum		decimal, encoded value		0	1				Harvard PGP	Deviated septum				List	1=Reported 0=Not reported
+Asthma	Asthma		decimal, encoded value		0	1				Harvard PGP	Asthma				List	1=Reported 0=Not reported
+Chronic bronchitis	Chronic bronchitis		decimal, encoded value		0	1				Harvard PGP	Chronic bronchitis				List	1=Reported 0=Not reported
+Chronic tonsillitis	Chronic tonsillitis		decimal, encoded value		0	1				Harvard PGP	Chronic tonsillitis				List	1=Reported 0=Not reported
+Chronic sinusitis	Chronic sinusitis		decimal, encoded value		0	1				Harvard PGP	Chronic sinusitis				List	1=Reported 0=Not reported
+Allergic rhinitis	Allergic rhinitis		decimal, encoded value		0	1				Harvard PGP	Allergic rhinitis				List	1=Reported 0=Not reported

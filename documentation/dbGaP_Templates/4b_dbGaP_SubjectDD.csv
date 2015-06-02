@@ -1,0 +1,6 @@
+VARNAME,VARDESC,TYPE,VALUES,,
+SUBJECT_ID,Subject ID,string,,,
+CONSENT,Consent group as determined by DAC,encoded value,1=General Research Use (GRU),,
+SUBJECT_SOURCE,Source repository where subjects originate,string,,,
+SOURCE_SUBJECT_ID,Subject ID used in the Source Repository,string,,,
+AFFECTION_STATUS,Case control status of the subject,encoded value,1=Control,2=Case,3=Other

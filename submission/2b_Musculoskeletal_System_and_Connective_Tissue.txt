@@ -1,0 +1,8 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID									Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected									Harvard PGP	timestamp		X			
+Frozen shoulder	Frozen shoulder		decimal, encoded value		0	1				Harvard PGP	Frozen shoulder				List	1=Reported 0=Not reported
+Plantar fasciitis	Plantar fasciitis		decimal, encoded value		0	1				Harvard PGP	Plantar fasciitis				List	1=Reported 0=Not reported
+Flatfeet	Flatfeet		decimal, encoded value		0	1				Harvard PGP	Flatfeet				List	1=Reported 0=Not reported
+Rotator cuff tear	Rotator cuff tear		decimal, encoded value		0	1				Harvard PGP	Rotator cuff tear				List	1=Reported 0=Not reported
+Bunions	Bunions		decimal, encoded value		0	1				Harvard PGP	Bunions				List	1=Reported 0=Not reported

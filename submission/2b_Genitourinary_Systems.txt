@@ -1,0 +1,7 @@
+VARNAME	VARDESC	DOCFILE	TYPE	UNITS	MIN	MAX	RESOLUTION	COMMENT1	COMMENT2	VARIABLE_SOURCE	SOURCE_VARIABLE_ID	VARIABLE_MAPPING	UNIQUEKEY	COLLINTERVAL	ORDER	VALUES
+SUBJECT_ID	Subject ID									Harvard PGP	huID		X			
+TIMESTAMP	Time response was collected									Harvard PGP	timestamp		X			
+Uterine prolapse	Uterine prolapse		decimal, encoded value		0	1				Harvard PGP	Uterine prolapse				List	1=Reported 0=Not reported
+Urinary tract infection (UTI)	Urinary tract infection (UTI)		decimal, encoded value		0	1				Harvard PGP	Urinary tract infection (UTI)				List	1=Reported 0=Not reported
+Benign prostatic hypertrophy (BPH)	Benign prostatic hypertrophy (BPH)		decimal, encoded value		0	1				Harvard PGP	Benign prostatic hypertrophy (BPH)				List	1=Reported 0=Not reported
+Kidney stones	Kidney stones		decimal, encoded value		0	1				Harvard PGP	Kidney stones				List	1=Reported 0=Not reported

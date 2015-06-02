@@ -1,0 +1,12 @@
+SUBJECT_ID	TIMESTAMP	Year of birth	Sex/Gender	Race/ethnicity	Month of birth	Anatomical sex at birth
+huB1488D	2011-07-24 12:55:14	30-39 years	Female	White
+hu826751	2011-09-02 18:06:55	30-39 years	Male	White
+hu9E6329	2012-05-02 12:20:53	21-29 years	Female	White
+hu7C3A81	2012-06-20 12:40:20	21-29 years	Male	White
+hu8A5FBF	2012-11-28 20:50:45	50-59 years	Male	White
+hu925B56	2013-08-11 11:22:22	1958	Female	White	March	Female
+hu0E7AAF	2014-03-03 21:16:18	1986	Female	White	No response	Female
+hu3DC5EA	2014-03-06 12:30:23	1979	Female	White	June	Female
+hu7379BC	2014-04-01 22:09:14	1953	Female	White	June	Female
+hu8A5FBF	2014-05-02 17:19:51	1953	Male	White	March	Male
+hu566AA7	2014-06-13 12:00:53	1975	Male	White	March	Male
